@@ -12,10 +12,7 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: {
-    template: 'SSR | %s',
-    default: 'SSR | Tech Talk',
-  },
+  title: 'HUB | Tech Talk',
   description:
     'Explore como fazer requisições web e veja o poder das aplicações de MPAs e SPAs com SSR em ação. Este site demonstra como buscar perfis do GitHub e exibir seus detalhes.',
   keywords: ['MPA', 'SPA', 'SSR', 'Tech Talk', 'Next.js', 'GitHub', 'API'],
